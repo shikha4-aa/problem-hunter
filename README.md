@@ -28,8 +28,8 @@ This project scrapes live problem statements posted by real users (bugs, blocker
 ---
 
 ## ⚙️ Current Status:  
-> 🔨 Phase 1: GitHub scanner + backend API implemented.  
-> 🧪 Frontend integration in progress.
+>  Phase 1: GitHub scanner + backend API implemented.  
+>  Frontend integration in progress.
 
 ---
 
