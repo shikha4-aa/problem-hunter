@@ -1,6 +1,6 @@
 # problem-hunter
 
-**ProblemHunter** is a dev tool that hunts down **real, unsolved technical issues** from platforms like GitHub, Reddit, and Hacker News — so developers can stop wasting time thinking *what should I build?* and actually build.
+**ProblemHunter** is a dev tool that hunts down real, unsolved technical issues from platforms like GitHub, Reddit, and Hacker News, so developers can stop wasting time thinking *what should I build?* and actually build.
 
 This project scrapes live problem statements posted by real users (bugs, blockers, pain points) and displays them through a clean UI.
 
