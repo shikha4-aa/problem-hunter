@@ -33,8 +33,12 @@ This project scrapes live problem statements posted by real users (bugs, blocker
 
 ---
 
-## 📸 Preview (coming soon)
-(Screenshots / gifs go here once frontend is up)
+👀 Inspiration
+The idea came from constantly seeing devs stuck asking:
+
+“What should I build?”
+This tool answers that.
+We hunt the problems. You solve them.
 
 ---
 
@@ -56,10 +60,5 @@ cd client
 npm install
 npm start
 
-👀 Inspiration
-The idea came from constantly seeing devs stuck asking:
 
-“What should I build?”
-This tool answers that.
-We hunt the problems. You solve them.
 
