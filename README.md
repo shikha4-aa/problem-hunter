@@ -6,7 +6,7 @@ This project scrapes live problem statements posted by real users (bugs, blocker
 
 ---
 
-## 🚀 Features (Planned)
+## Features (Planned)
 
 - ✅ GitHub issue scanner (open issues with real bugs or problems)
 - 🔄 Reddit post scanner (from dev subs like r/learnprogramming)
@@ -17,7 +17,7 @@ This project scrapes live problem statements posted by real users (bugs, blocker
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js + Tailwind (or ShadCN UI)
 - **Backend:** Node.js + Express
